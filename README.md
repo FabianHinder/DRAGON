@@ -139,24 +139,24 @@ See the tutorials for the recommended learning path.
 ---
 
 ## Documentation
-* [Introduction](documentation/Main.md)
+* [Overview](documentation/index.md)
 ### First Steps
 
-* [Getting Started](documentation/docs/getting-started.md)
-* [Tutorials](documentation/docs/tutorials.md)
+* [Getting Started](docs/getting-started.md)
+* [Tutorials](docs/tutorials.md)
 
 ### Core Concepts
 
-* [Stream Generation](documentation/docs/concepts/stream-generation.md)
-* [Windows and Pipes](documentation/docs/concepts/windows-and-pipes.md)
-* [Event System](documentation/docs/concepts/events.md)
-* [Drift Detection](documentation/docs/concepts/drift-detection.md)
-* [Drift Explanations](documentation/docs/concepts/drift-explanations.md)
+* [Stream Generation](docs/concepts/stream-generation.md)
+* [Windows and Pipes](docs/concepts/windows-and-pipes.md)
+* [Event System](docs/concepts/events.md)
+* [Drift Detection](docs/concepts/drift-detection.md)
+* [Drift Explanations](docs/concepts/drift-explanations.md)
 
 ### Background
 
-* [Design Philosophy](documentation/docs/philosophy.md)
-* [Publications](documentation/docs/publications.md)
+* [Design Philosophy](docs/philosophy.md)
+* [Publications](docs/publications.md)
 
 ---
 
