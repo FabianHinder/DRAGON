@@ -3,8 +3,6 @@ from datetime import datetime
 import pandas as pd
 
 
-## TODO: wir sollten auf einen worker demon umsteigen, ist wahrscheinlich besser (but discuss)
-
 class EventHandler:
     """
     This class is responsible for all events.
